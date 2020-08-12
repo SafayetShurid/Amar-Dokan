@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "655209050576",
+    "firebase_url": "https://bikroy-308df.firebaseio.com",
+    "project_id": "bikroy-308df",
+    "storage_bucket": "bikroy-308df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655209050576:android:a9a8c5e9463f107a74c9d5",
+        "android_client_info": {
+          "package_name": "com.example.bikroy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655209050576-9rcaf4pherkktqi3cvkk2vhsc4fckoj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bikroy",
+            "certificate_hash": "32130aba85b492a280bfcdc99f00844a372daa09"
+          }
+        },
+        {
+          "client_id": "655209050576-3l8ergg45f8kvaqfab7d0pmsk1vunnee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHPTaKQQN3pPP2amtTJtIefER_FD-00w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655209050576-3l8ergg45f8kvaqfab7d0pmsk1vunnee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
